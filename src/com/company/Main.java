@@ -28,7 +28,6 @@ public class Main {
         frame.products.add(bigVodka);
         frame.orders.add(firstOrder);
         frame.orders.add(secondOrder);
-        System.out.println("GIT");
 
 
         frame.setVisible(true);
